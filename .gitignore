@@ -1,0 +1,9 @@
+# MySQL data directory
+docker/mysql/data/
+
+# 環境変数ファイル（もし使っていたら）
+.env
+
+# OSやエディタの不要ファイル
+.DS_Store
+Thumbs.db
